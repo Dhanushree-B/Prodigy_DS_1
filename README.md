@@ -1,4 +1,6 @@
-Data Visualization with Bar Chart / Histogram
+# Data Visualization with Bar Chart / Histogram
+
+
 📊 Task 01  
 # Objective
 To create a bar chart or histogram that visualizes the distribution of a categorical or continuous variable. This task aims to demonstrate foundational skills in data visualization using Python libraries such as matplotlib and seaborn.
